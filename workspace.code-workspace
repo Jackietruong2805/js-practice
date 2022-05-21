@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "dropdown"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calculator"
+	}
+}
